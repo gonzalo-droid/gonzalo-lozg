@@ -1,13 +1,4 @@
-/**
-* Template Name: iPortfolio - v3.9.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -645,6 +636,7 @@ section {
 
 .portfolio-details .portfolio-info {
   padding: 30px;
+  background-color: white;
   box-shadow: 0px 0 30px rgba(5, 13, 24, 0.08);
 }
 
